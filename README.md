@@ -60,7 +60,7 @@ I love building modern, performant web applications from scratch — from databa
 
 🧩 Did You Know?
 
- . 🧠 I can code for 8 hours straight — powered only by passion and strong Kenyan tea.
+ . 🧠 I can code for 8 hours straight — powered only by passion and strong Kenyan coffee.
 
 🧘 How I Chill
 

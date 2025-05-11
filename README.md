@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Sharrif+Kimita)](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kimitasharrif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ 👀 <img src="https://komarev.com/ghpvc/?username=kimitasharrif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
  Am passionate **Fullstack Sofware Developer** 

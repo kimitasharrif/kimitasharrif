@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Sharrif+Kimita)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&vCenter=true&width=1000&height=60&lines=%F0%9F%91%8B+Hello+this+is+Sharrif+Kimita+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-<p align="left">
- 👀 <img src="https://komarev.com/ghpvc/?username=kimitasharrif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
+<p align="center"> <i>Aspiring Software Engineer with a solid foundation in programming, software development, and problem-solving. Proficient in data structures, algorithms, and object-oriented design, with hands-on experience in building, testing, and deploying software applications. Eager to leverage academic knowledge and project experience to develop scalable solutions and contribute to innovative, technology-driven environments..</i> </p>
 
- Am passionate **Fullstack Sofware Developer** 
-I love building modern, performant web applications from scratch — from database design to frontend animations. My mission is to craft clean, intuitive user experiences and robust backend systems.
+---
 
 ### 🧠 What Sets Me Apart
 
@@ -58,17 +56,6 @@ I love building modern, performant web applications from scratch — from databa
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharrifkimita/)
 
 
-🧩 Did You Know?
-
- . 🧠 I can code for 8 hours straight — powered only by passion and strong Kenyan coffee.
-
-🧘 How I Chill
-
-. 🎧 Music: Lo-fi beats, AfroHouse, and old-school hip hop 
-. 🎮 Hobbies: Gaming, hiking, and street photography, Swimming 
-. 💬 Favorite Quote: "Simplicity is the soul of efficiency." – Austin Freeman
-
-
 🧭 Where I’m From
 
 🇰🇪 I’m proudly from **Kenya**, where innovation meets resilience.  
@@ -76,9 +63,12 @@ I draw inspiration from Nairobi's fast pace and the beauty of the Rift Valley.
  🌍
 
 🔁 Code Philosophy
+
  . 🧱 Build for humans first, machines second.  
  . 🚀 Fast is better than perfect, but clean code is timeless.  
  . 🔁 Always refactor when it hurts to look at your code.
+ 
+ . 💬 Favorite Quote: "Simplicity is the soul of efficiency." – Austin Freeman
 
 
 ### 📅 Currently Working On:
@@ -90,6 +80,10 @@ I draw inspiration from Nairobi's fast pace and the beauty of the Rift Valley.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimitasharrif&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimitasharrif&layout=compact&theme=radical)
 
+<p align="left">
+ 👀 <img src="https://komarev.com/ghpvc/?username=kimitasharrif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h3>Copy Profile</h3>
 
 ```md
@@ -100,4 +94,17 @@ https://github.com/kimitasharrif/
 <!---
 kimitasharrif/kimitasharrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+🧩 Did You Know?
+
+ . 🧠 I can code for 8 hours straight — powered only by passion and strong Kenyan coffee.
+
+🧘 How I Chill
+
+. 🎧 Music: Lo-fi beats, AfroHouse, and old-school hip hop 
+. 🎮 Hobbies: Gaming, hiking, and street photography, Swimming 
+. 💬 Favorite Quote: "Simplicity is the soul of efficiency." – Austin Freeman
+
+
+
 --->

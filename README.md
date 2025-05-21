@@ -41,13 +41,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-### 🛠️ Projects I'm Proud Of
-- 🔗 [Fitness Magic  SaaS-based web application platform](https://github.com/kimitasharrif/) —Node ,Mysql & React JS.
-- 🔗 [Marathon Kit Registration Website](https://github.com/kimitasharrif/) —Django, Mysql  & React JS.
-- 🔗 [MAZIVS Trading  Bot Platform ](https://github.com/kimitasharrif/) — Express, MongoDB, Node & React.
-- 🌍 [EpicSafaris Tourism & Booking Site](https://github.com/kimitasharrif/) — Tourism web app with sleek Tailwind UI.
-
-
 ### 📫 Reach me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharrif-kimita-884158301/)
@@ -77,7 +70,7 @@ I draw inspiration from Nairobi's fast pace and the beauty of the Rift Valley.
 - 🌐 Launching a portfolio redesign with animations and 3D effects
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimitasharrif&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimitasharrif&layout=compact&theme=radical)
 
 <p align="left">
@@ -105,6 +98,12 @@ You can click the Preview link to take a look at your changes.
 . 🎮 Hobbies: Gaming, hiking, and street photography, Swimming 
 . 💬 Favorite Quote: "Simplicity is the soul of efficiency." – Austin Freeman
 
+### 🛠️ Projects I'm Proud Of
+- 🔗 [Fitness Magic  SaaS-based web application platform](https://github.com/kimitasharrif/) —Node ,Mysql & React JS.
+- 🔗 [Marathon Kit Registration Website](https://github.com/kimitasharrif/) —Django, Mysql  & React JS.
+- 🔗 [MAZIVS Trading  Bot Platform ](https://github.com/kimitasharrif/) — Express, MongoDB, Node & React.
+- 🌍 [EpicSafaris Tourism & Booking Site](https://github.com/kimitasharrif/) — Tourism web app with sleek Tailwind UI.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimitasharrif&show_icons=true&theme=radical)
 
 --->

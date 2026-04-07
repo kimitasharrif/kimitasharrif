@@ -5,6 +5,10 @@
 
 ---
 
+<a href="https://humanpages.ai/humans/cmnoza1oz034wcxnyfa34o0o2" target="_blank" rel="noopener noreferrer">
+  <img src="https://humanpages.ai/api/badge/cmnoza1oz034wcxnyfa34o0o2" alt="Hire me on Human Pages" />
+</a>
+
 ### 🧠 What Sets Me Apart
 
 - 🤝 Strong communicator and team collaborator

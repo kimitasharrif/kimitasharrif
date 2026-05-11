@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://humanpages.ai/humans/cmnoza1oz034wcxnyfa34o0o2" target="_blank" rel="noopener noreferrer">
   <img src="https://humanpages.ai/api/badge/cmnoza1oz034wcxnyfa34o0o2" alt="Hire me on Human Pages" />
@@ -22,7 +22,7 @@
 
 </div>
 
----
+--- -->
 
 ## 🚀 About Me
 
